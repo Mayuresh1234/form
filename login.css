@@ -73,9 +73,9 @@ button
     position: relative;
 }
 
-.fa-solid{
+.fa-user{
     color: yellow;
     position: absolute;
-    top: 0%;
-    left: 0%;
+    padding: 8px 0px 0p 6px;
+  
 }
